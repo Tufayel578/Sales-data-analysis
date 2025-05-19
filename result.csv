@@ -1,0 +1,11 @@
+InvoiceID,Product,Quantity,UnitPrice,Date,TotalRevenue,TotalCost,Profit
+INV001,Notebook,5,3.5,12/1/2024,17.5,0.0,17.5
+INV002,Pen,10,1.2,12/1/2024,12.0,0.0,12.0
+INV003,Pencil,12,0.5,12/2/2024,6.0,0.0,6.0
+INV004,Marker,7,2,12/2/2024,14.0,0.0,14.0
+INV005,Notebook,3,3.5,12/3/2024,10.5,0.0,10.5
+INV006,Pen,20,1.2,12/3/2024,24.0,0.0,24.0
+INV007,Highlighter,4,1.8,12/3/2024,7.2,0.0,7.2
+INV008,Stapler,2,5,12/4/2024,10.0,0.0,10.0
+INV009,Notebook,8,3.5,12/4/2024,28.0,0.0,28.0
+INV010,Eraser,15,0.6,12/4/2024,9.0,0.0,9.0
